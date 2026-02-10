@@ -25,5 +25,5 @@ Based on the current repository:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/saniya27042003/Greenclassify.git](https://github.com/saniya27042003/Greenclassify.git)
+   git clone [https://github.com/poonam031/Grren_Classiify.git](https://github.com/poonam031/Grren_Classiify.git)
    cd Greenclassify
